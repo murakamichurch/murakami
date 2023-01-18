@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja-jp'
+title = '【非公式】日本基督教団村上教会'
+theme = "hugo-theme-learn"
