@@ -9,3 +9,6 @@ draft: false
 ## ウェブサイトについて
 このサイトは有志のチームによって運営されています。
 このサイトは無保証で提供されており、予告なく閉鎖される場合があります。
+# 聖書について
+現在準備中
+{{<aludotjp width="318" height="262.5" koma="%E9%82%AA%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%AD%E3%83%83%E3%82%AF/crop/embed/VnoHxURdnB2DjAWZYYED/0?referer=oembed">}}
