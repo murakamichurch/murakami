@@ -1,3 +1,5 @@
 {{- $ggmpb := .Get "pb" -}}
+{{- $width := .Get "width" -}}
+{{- $height := .Get "height" -}}
 {{- $url := "https://www.google.com/maps/embed" -}}
-<iframe src="{{ $url }}?pb={{ $ggmpb }}&z=4"  width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="{{ $url }}?pb={{ $ggmpb }}"  width="{{ $width }}" height="{{ $height }}" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
